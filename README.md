@@ -1,7 +1,12 @@
-# DIO - Trilha Java Básico
-www.dio.me
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span> Dio-Trilha</span>
+    www.dio.me
+</h1>
+  
 
-## Sintaxe - Desafio
+## 🚩 Sintaxe - Desafio 
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
